@@ -6,6 +6,8 @@ permalink: /blog-iec61499-power-supply-control/
 
 # Building a SCADA-Connected Power Supply Controller with a Raspberry Pi and IEC 61499 — Lessons from the Architecture Phase
 
+[Home](/) · [Weekend Project Ideas](/weekend-project-ideas/)
+
 *Internal engineering blog — weekend project writeup*
 
 ---
