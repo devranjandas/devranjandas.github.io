@@ -2,6 +2,8 @@
 
 This page will host many of my notebooks that I have written using Markdown.
 
+- [Weekend Project Ideas](/weekend-project-ideas/)
+
 
 
 
