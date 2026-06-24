@@ -4,11 +4,10 @@ title: Building a SCADA-Connected Power Supply Controller with a Raspberry Pi an
 permalink: /blog-iec61499-power-supply-control/
 ---
 
-# Building a SCADA-Connected Power Supply Controller with a Raspberry Pi and IEC 61499 — Lessons from the Architecture Phase
 
 [Home](/) · [Weekend Project Ideas](/weekend-project-ideas/)
 
-*Internal engineering blog — weekend project writeup*
+*My thoughts on a Saturday morning*
 
 ---
 
@@ -98,4 +97,4 @@ Next up: building the first per-supply composite function block and getting `FB_
 
 ---
 
-*Questions or want to pair on the 4diac side? Find me on the usual channels.*
+*Have questions? Email me: devranjandas@gmail.com*
